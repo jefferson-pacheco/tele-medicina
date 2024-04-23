@@ -5,9 +5,9 @@ Eu sou um desenvolvedor web apaixonado por criar aplicações web personalizadas
 
 Nesta aplicação, implementei recursos como cadastro de médicos, agendamento de consultas, gerenciamento de horários, upload de documentos médicos e muito mais. Utilizei tecnologias modernas como Django, HTML, CSS e JavaScript para criar uma interface intuitiva e amigável para os usuários.
 
-🚀 Desenvolvimento de Aplicação Web com Django 🌐
+🚀 Desenvolvimento de Aplicação Web Jr com Django 🌐
 
-Olá pessoal! Estou empolgado em compartilhar meu mais recente projeto de desenvolvimento de uma aplicação web utilizando Django. Esta aplicação foi construída com o objetivo de fornecer uma plataforma robusta e eficiente para atender às necessidades específicas dos usuários.
+Estou empolgado em compartilhar meu mais recente projeto de desenvolvimento de uma aplicação web utilizando Django. Esta aplicação foi construída com o objetivo de fornecer uma plataforma robusta e eficiente para atender às necessidades específicas dos usuários.
 
 ✨ Recursos Utilizados:
 
