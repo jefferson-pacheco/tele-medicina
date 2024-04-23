@@ -1,0 +1,13 @@
+.link-documento {
+    color: #000; /* Cor do texto */
+    text-decoration: none; /* Remover sublinhado */
+    display: block; /* Fazer com que o link ocupe toda a largura disponível */
+}
+
+.link-documento:hover {
+    color: #679beb; /* Mudar a cor do texto quando passar o mouse */
+}
+
+.link-documento i {
+    margin-right: 5px; /* Adicionar um espaço entre o ícone e o texto */
+}
